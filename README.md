@@ -39,6 +39,20 @@ The .gitignore file will be used to ignore/not-track files or directories in our
 Credential (username, password, api_key, token) will be stored in a dotenv (.env) file separate from the code. The .env method lets the application load varibles from .env file into the running process.
 </p>
 
+## Project 2 Update
+
+Branching Strategy
+In project 2 – API Development I used two branching strategies trunk-based development (TBD) and GitHub Flow branching strategies.
+TBD was used for small changes in the three controllers were the code was somewhat the same (get, post, patch ) and 
+GitHub Flow was used for the remaining endpoints, Authentication and Authorization. 
+
+# 1.Application Architecture
+
+<img src="Images/Application Architecture.drawio.png" width=500> 
+
+# 2.Application Flow Chart
+
+<img src="Images/DMS-FlowChart.drawio.png" width=500>
 
 <h2>Acknowledgements</h2>
 <ul>JacquiM</ul> 
